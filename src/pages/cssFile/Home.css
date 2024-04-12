@@ -1,0 +1,30 @@
+#loginContainer{
+    /* border: 1px solid red; */
+    height: 400px;
+    box-shadow: 0 0 10px rgb(41, 41, 41);
+    width: 50%;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#LoginText{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.formData{
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.formData label{
+    width: 30%;
+}
+
+.formData input{
+        width: 70%;
+}

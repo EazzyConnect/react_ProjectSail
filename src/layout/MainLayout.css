@@ -1,0 +1,35 @@
+#mainLayoutContainer {
+    background-color: rgb(195, 195, 243);
+    display: flex;
+    height: 100vh;
+    /* border: 1px solid red; */
+}
+
+#mainLayoutRightContainer {
+    margin-left: 20%;
+    /* border: 1px solid red; */
+    width: 100%;
+}
+
+#mainLayoutSideBar {
+    background-color: rgb(100, 100, 247);
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+}
+
+#mainLayoutNavBar {
+    background-color: blue;
+    color: whitesmoke;
+    padding: 5px;
+    width: 100%;
+    height: 10%;
+}
+
+#mainLayoutOutlet{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    /* border: 1px solid red; */
+}

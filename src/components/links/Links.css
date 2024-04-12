@@ -1,0 +1,14 @@
+#LinksContainer span {
+    color: whitesmoke;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#LinksContainerNavLink{
+        text-decoration: none;
+}
+
+#LinksContainerLabel {
+    text-decoration: none;
+    padding: 5px;
+}

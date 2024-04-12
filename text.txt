@@ -1,0 +1,12 @@
+create pages
+create navigation components
+imstall react-router-dom
+create router
+create layout
+import and use RouterProvider
+create links
+*** npm react-icons
+create context to share data globally
+***mainlayout is sent to the router which is passed to app.jsx for display
+
+*** babel (is a bundler) converts jsx to js
